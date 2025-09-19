@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background: green;
+  padding: 1rem;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.landing {
+  text-align: center;
+  padding: 5rem;
+  color: white;
+  background-size: cover;
+  height: 100vh;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  width: 200px;
+  text-align: center;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem;
+}
