@@ -39,5 +39,5 @@ An e-commerce React + Redux project that allows users to browse houseplants, add
 ---
 
 ## 👩‍💻 Author
-- Your Name  
-- GitHub: [your-username](https://github.com/your-username)
+- JOHN WILSON YU 
+- GitHub: [wilsonyu112](https://github.com/wilsonyu112)
